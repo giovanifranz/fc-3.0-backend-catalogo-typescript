@@ -46,7 +46,9 @@
         "humao.rest-client",
         "firsttris.vscode-jest-runner",
         "zixuanchen.vitest-explorer",
-        "jebbs.plantuml"
+        "jebbs.plantuml",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
       ]
     }
   }
